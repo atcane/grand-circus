@@ -1,0 +1,9 @@
+.container {
+        display: float;
+        justify-content: center;
+        margin: 50px;
+        font-size: 13px;
+}
+h1 { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}

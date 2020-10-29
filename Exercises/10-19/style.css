@@ -1,0 +1,30 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    background-color: #551A8B;
+    color: white;
+    
+}
+header {
+   display: inline-block; 
+   font-family: Lato;
+   width: 100%;
+}
+
+.nav {
+    display: block;
+    text-decoration: none;
+    color: white;
+    justify-content: flex-end;
+}
+
+p {
+    font-size: 1rem;
+}
+
+@media only screen and (min-width: 767px) {
+   p {
+    font-size: 1rem;
+   } 
+}
